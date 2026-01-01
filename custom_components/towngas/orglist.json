@@ -4350,6 +4350,26 @@
             "selected": false,
             "levelFlag": null,
             "insureRegion": "2"
+        },
+        {
+            "orgCode": "10401_JNGH0105",
+            "orgName": "山东港华燃气有限公司（高新客户服务中心）",
+            "shortName": "山东港华燃气有限公司（高新客户服务中心）",
+            "remark": "",
+            "areaCode": "034d3319677642ee8df32be5266e526e,06b23d2ab0fb493e9eec008c45ca3dd1,14e096c2e2c34225ab30a2f7d21c78f3,1796bb93a62b47babda976a173ce0d02,4c33bbcda3434df6841a3de8a1f2c492,52c748a0268949979b70a7824b51fa7a,892210ecc7b64fcc88551479b2b7c159,97023ce406e34536990649bf3f8cd556,a72fa9a2741c48c2b8aff20dd70a4f38,c02812118f214e949235369db83a2950,ce3ad9f9f42d4fd5be5a103b1742ec18,f5f84df96139418ea15b56e8697e5bed,f6f869ae7824405c8c8dfefc97dd94fd",
+            "apiProtocol": "TCIS3.1JHDF",
+            "host": "wt.shandongtowngas.com.cn",
+            "orgId": "8ad88b8582f48df601835f6235810065"
+        },
+        {
+            "orgCode": "SDJH0105",
+            "orgName": "山东港华燃气有限公司",
+            "shortName": "山东港华燃气有限公司",
+            "remark": "济南市",
+            "areaCode": "034d3319677642ee8df32be5266e526e,06b23d2ab0fb493e9eec008c45ca3dd1,14e096c2e2c34225ab30a2f7d21c78f3,1796bb93a62b47babda976a173ce0d02,4c33bbcda3434df6841a3de8a1f2c492,52c748a0268949979b70a7824b51fa7a,892210ecc7b64fcc88551479b2b7c159,97023ce406e34536990649bf3f8cd556,a72fa9a2741c48c2b8aff20dd70a4f38,c02812118f214e949235369db83a2950,ce3ad9f9f42d4fd5be5a103b1742ec18,f5f84df96139418ea15b56e8697e5bed,f6f869ae7824405c8c8dfefc97dd94fd",
+            "apiProtocol": "TCIS3.1JHDF",
+            "host": "jngas.jinantowngas.com.cn",
+            "orgId": "2c90d8885c856418015cc9e655530073"
         }
     ]
 }
