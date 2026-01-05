@@ -73,7 +73,7 @@ class TowngasConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
 
         # 构建机构选择下拉菜单
         org_options = {
-            org["orgCode"]: f"{org['shortName']} ({org['desc']})"
+            org["orgCode"]: f"{org['shortName']}"
             for org in self.org_list
         }
 
